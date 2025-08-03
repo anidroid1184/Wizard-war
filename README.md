@@ -19,16 +19,16 @@
 ## 🗂 Estructura del Proyecto
 
 Wizards/<br>
-├── assets/                # Recursos gráficos y sonoros 
-├── __pycache__/           # Archivos temporales (ignorar)
-├── Magic Wand.ttf         # Fuente mágica
-├── Wizards' Magic.ttf     # Fuente decorativa
-├── __init__.py            # Inicialización del paquete
-├── enemy.py               # Lógica de los enemigos
-├── game.py                # Gestión del ciclo principal del juego
-├── main.py                # Punto de entrada del juego
-├── player.py              # Control y lógica del jugador
-├── settings.py            # Variables globales de configuración
+├── assets/                # Recursos gráficos y sonoros <br>
+├── __pycache__/           # Archivos temporales (ignorar)<br>
+├── Magic Wand.ttf         # Fuente mágica<br>
+├── Wizards' Magic.ttf     # Fuente decorativa<br>
+├── __init__.py            # Inicialización del paquete<br>
+├── enemy.py               # Lógica de los enemigos<br>
+├── game.py                # Gestión del ciclo principal del juego<br>
+├── main.py                # Punto de entrada del juego<br>
+├── player.py              # Control y lógica del jugador<br>
+├── settings.py            # Variables globales de configuración<br>
 
 ---
 
