@@ -15,25 +15,20 @@
 - Carpeta `assets/` para gestionar recursos gráficos y/o sonoros.
 - Compatible con Python 3 y Pygame.
 
----
-
+"""
 ## 🗂 Estructura del Proyecto
 
 Wizards/
-├── assets/ # Recursos gráficos y sonoros
-├── pycache/ # Archivos temporales (ignorar)
-├── Magic Wand.ttf # Fuente mágica
-├── Wizards' Magic.ttf # Fuente decorativa
-├── init.py # Inicialización del paquete
-├── enemy.py # Lógica de los enemigos
-├── game.py # Gestión del ciclo principal del juego
-├── main.py # Punto de entrada del juego
-├── player.py # Control y lógica del jugador
-├── settings.py # Variables globales de configuración
-
-yaml
-Copiar
-Editar
+├── assets/                # Recursos gráficos y sonoros 
+├── __pycache__/           # Archivos temporales (ignorar)
+├── Magic Wand.ttf         # Fuente mágica
+├── Wizards' Magic.ttf     # Fuente decorativa
+├── __init__.py            # Inicialización del paquete
+├── enemy.py               # Lógica de los enemigos
+├── game.py                # Gestión del ciclo principal del juego
+├── main.py                # Punto de entrada del juego
+├── player.py              # Control y lógica del jugador
+├── settings.py            # Variables globales de configuración
 
 ---
 
