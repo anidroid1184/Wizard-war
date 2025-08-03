@@ -18,7 +18,7 @@
 """
 ## 🗂 Estructura del Proyecto
 
-Wizards/
+Wizards/<br>
 ├── assets/                # Recursos gráficos y sonoros 
 ├── __pycache__/           # Archivos temporales (ignorar)
 ├── Magic Wand.ttf         # Fuente mágica
